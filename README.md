@@ -5,12 +5,14 @@
 <h2>Cursus</h2>
 <p align="justify">The cursus is primarily developed in C, and progress is made through the completion of projects that, one after another, lead us to understand this language. (click on the images to see the project =D)</p>
 
-<a href=""><img src="https://raw.githubusercontent.com/RepositoryEnjoyer/RepositoryEnjoyer/master/resources/libftm.png" width="165"></a>
-<a href=""><img src="https://raw.githubusercontent.com/RepositoryEnjoyer/RepositoryEnjoyer/master/resources/born2berootm.png" width="165"></a>
-<a href="https://github.com/RepositoryEnjoyer/ft_printf"><img src="https://raw.githubusercontent.com/RepositoryEnjoyer/RepositoryEnjoyer/master/resources/ft_printfe.png" width="165"></a>
-<a href="https://github.com/RepositoryEnjoyer/get_next_line"><img src="https://raw.githubusercontent.com/RepositoryEnjoyer/RepositoryEnjoyer/master/resources/get_next_linem.png" width="165"></a>
-<a href="https://github.com/RepositoryEnjoyer/minitalk/tree/master/MiniTalk"><img src="https://raw.githubusercontent.com/RepositoryEnjoyer/RepositoryEnjoyer/master/resources/minitalkm.png" width="165"></a>
-<a href="https://github.com/RepositoryEnjoyer/push_swap/tree/master/push_swap"><img src="https://raw.githubusercontent.com/RepositoryEnjoyer/RepositoryEnjoyer/master/resources/push_swapm.png" width="165"></a>
+<p align="center">
+  <a href=""><img src="https://raw.githubusercontent.com/RepositoryEnjoyer/RepositoryEnjoyer/master/resources/libftm.png" width="140"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/RepositoryEnjoyer/RepositoryEnjoyer/master/resources/born2berootm.png" width="140"></a>
+  <a href="https://github.com/RepositoryEnjoyer/ft_printf"><img src="https://raw.githubusercontent.com/RepositoryEnjoyer/RepositoryEnjoyer/master/resources/ft_printfe.png" width="140"></a>
+  <a href="https://github.com/RepositoryEnjoyer/get_next_line"><img src="https://raw.githubusercontent.com/RepositoryEnjoyer/RepositoryEnjoyer/master/resources/get_next_linem.png" width="140"></a>
+  <a href="https://github.com/RepositoryEnjoyer/minitalk/tree/master/MiniTalk"><img src="https://raw.githubusercontent.com/RepositoryEnjoyer/RepositoryEnjoyer/master/resources/minitalkm.png" width="140"></a>
+  <a href="https://github.com/RepositoryEnjoyer/push_swap/tree/master/push_swap"><img src="https://raw.githubusercontent.com/RepositoryEnjoyer/RepositoryEnjoyer/master/resources/push_swapm.png" width="140"></a>
+ </p>
 <p align="center">
   <img src="https://badge42.vercel.app/api/v2/clihmo0ck007808jmz869za93/stats?cursusId=21&coalitionId=276" alt="cmaurici's 42 stats">
 </p>
